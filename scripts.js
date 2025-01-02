@@ -1,7 +1,7 @@
 const exchangeRates = {
-    USD: 5.5,
-    EUR: 6.5,
-    GBP: 8.2
+    USD: 6.162,
+    EUR: 6.317,
+    GBP: 7.612
 };
 
 const form = document.querySelector('form');
